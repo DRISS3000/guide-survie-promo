@@ -1,2 +1,1 @@
-# guide-survie-promo
-# guide-survie-promo
+Guide de survie de promo
