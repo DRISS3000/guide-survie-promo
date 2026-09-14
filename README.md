@@ -1,3 +1,2 @@
-Membre D 
-## Le restaurant officiel 
-Recommander l'adresse du meilleur endroit où manger le midi.
+Le meilleur restaurant pour manger le midi est lIUT car 1 euro le repas -_-
+echo Le meilleur restaurant pour manger le midi est l'IUT car 1 euro le repas '-_-
